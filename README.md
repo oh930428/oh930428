@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 오민석</h1>
+<h1 align="center">현재는 FE 개발자 미래엔 FSE 오민석</h1>
 <h3 align="center">A passionate frontend developer from</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oh930428&label=Profile%20views&color=0e75b6&style=flat" alt="oh930428" /> </p>
