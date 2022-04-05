@@ -31,6 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-05122A?style=for-the-badge&logo=slack&logoColor=4A154B)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-05122A?style=for-the-badge&logo=jira&logoColor=0052CC)&nbsp;
 
 ---
 ### 💻 &nbsp; GitHub Analytics
