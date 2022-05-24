@@ -3,7 +3,8 @@
 ✓ 모르는 것은 창피한 것이 아니다 단지 물어보지 않는 것지 창피한 것이다!\
 ✓ 질문이 들어오면 최대한 쉬운 예시를 들어주며 이야기 하려 노력합니다!\
 ✓ 저는 피드백을 받는 것을 언제나 환영 입니다.\
-![GitHub] https://oh930428.github.io/portfolio/
+<a href="https://oh930428.github.io/portfolio/"><img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub"/></a>
+![GitHub] 
 https://bit.ly/3LFnJ3p
 
 ---
