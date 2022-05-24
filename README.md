@@ -40,5 +40,5 @@
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:oh930428@gmail.com"><img src="https://img.shields.io/badge/-oh930428@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://bit.ly/3LFnJ3p"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://ring-muenster-820.notion.site/f32a649d4d1249e5a8828581e977e652"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
